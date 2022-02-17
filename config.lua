@@ -8,7 +8,7 @@ Config.FallbackDistance = 3.0 -- Distance to fall back on when it is not set
 Config.EnableSounds = true -- Enable sounds when unlocking/locking doors (doors triggered by scripts can have the sound manually disabled)
 Config.EnableAnimation = true -- Enable the animation when unlocking/locking doors (doors triggered by scripts can have the animation manually disabled)
 
-Config.ChangeColor = false -- Change the color of the box of the popup text based on if it is locked or not
+Config.ChangeColor = true -- Change the color of the box of the popup text based on if it is locked or not
 Config.DefaultColor = 'rgb(19, 28, 74)' -- The default color of the box of the popup text if Config.ChangeColor is false
 Config.LockedColor = 'rgb(219 58 58)' -- The color of the box of the popup text if Config.ChangeColor is true and the door is locked
 Config.UnlockedColor = 'rgb(27 195 63)' -- The color of the box of the popup text if Config.ChangeColor is true and the door is unlocked
