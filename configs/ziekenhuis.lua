@@ -69,6 +69,7 @@ table.insert(Config.DoorList, {
     maxDistance = 2,
     authorizedJobs = {
         ['ambulance'] = 0,
+        ['police'] = 0,
     }
 })
 
@@ -83,6 +84,7 @@ table.insert(Config.DoorList, {
     maxDistance = 2,
     authorizedJobs = {
         ['ambulance'] = 0,
+        ['police'] = 0,
     }
 })
 
