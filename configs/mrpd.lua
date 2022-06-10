@@ -122,37 +122,37 @@ table.insert(Config.DoorList, {
 	}
 })
 
--- Garage roller door 1
-table.insert(Config.DoorList, {
-	objCoords = vector3(431.4119, -1000.772, 26.69661),
-	objHeading = 0,
-	slides = true,
-	garage = true,
-	objHash = 2130672747, -- gabz_mrpd_garage_door
-	locked = true,
-	audioRemote = true,
-	maxDistance = 6,
-	authorizedJobs = {
-		['police'] = 0,
-		['offpolice'] = 0,
-	}
-})
+-- -- Garage roller door 1
+-- table.insert(Config.DoorList, {
+-- 	objCoords = vector3(431.4119, -1000.772, 26.69661),
+-- 	objHeading = 0,
+-- 	slides = true,
+-- 	garage = true,
+-- 	objHash = 2130672747, -- gabz_mrpd_garage_door
+-- 	locked = true,
+-- 	audioRemote = true,
+-- 	maxDistance = 6,
+-- 	authorizedJobs = {
+-- 		['police'] = 0,
+-- 		['offpolice'] = 0,
+-- 	}
+-- })
 
--- Garage roller door 2
-table.insert(Config.DoorList, {
-	objCoords = vector3(452.3005, -1000.772, 26.69661),
-	objHeading = 0,
-	slides = true,
-	garage = true,
-	objHash = 2130672747, -- gabz_mrpd_garage_door
-	locked = true,
-	audioRemote = true,
-	maxDistance = 6,
-	authorizedJobs = {
-		['police'] = 0,
-		['offpolice'] = 0,
-	}
-})
+-- -- Garage roller door 2
+-- table.insert(Config.DoorList, {
+-- 	objCoords = vector3(452.3005, -1000.772, 26.69661),
+-- 	objHeading = 0,
+-- 	slides = true,
+-- 	garage = true,
+-- 	objHash = 2130672747, -- gabz_mrpd_garage_door
+-- 	locked = true,
+-- 	audioRemote = true,
+-- 	maxDistance = 6,
+-- 	authorizedJobs = {
+-- 		['police'] = 0,
+-- 		['offpolice'] = 0,
+-- 	}
+-- })
 
 -- Back gate
 table.insert(Config.DoorList, {
